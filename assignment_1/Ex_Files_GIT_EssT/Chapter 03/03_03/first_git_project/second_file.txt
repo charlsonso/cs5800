@@ -1,1 +1,3 @@
 second file added. changed file contents to test staging area/ repository
+
+hi
